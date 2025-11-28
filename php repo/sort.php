@@ -3,7 +3,7 @@
 <head><title>Sort Example</title></head>
 <body>
 <?php
-$name = array("gopi", "arjun", "afsa", "jasil");
+$name = array("bonny", "anand", "kashyab", "jasil");
 
 asort($name);
 echo "<h3>Ascending order (asort):</h3>";
